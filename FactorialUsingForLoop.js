@@ -3,11 +3,11 @@
 // 4! = 1*2*3*4
 // 5! = 1*2*3*4*5
 
-// var factorial = 1;
-// for (var i = 1; i <= 5; i++) {
-//     factorial = factorial * i
-//     console.log(i, factorial);
-// }
+var factorial = 1;
+for (var i = 1; i <= 5; i++) {
+    factorial = factorial * i
+    console.log(i, factorial);
+}
 
 
 // for loop diye factorial ber korake bole
